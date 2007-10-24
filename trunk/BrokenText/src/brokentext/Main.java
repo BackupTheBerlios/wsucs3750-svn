@@ -55,7 +55,7 @@ public class Main
    
    public void addText4()
    {
-      output += "I am broken!!\n";
+      output += "one program at the same time. ";
    }
    
    public void addText5()
