@@ -100,12 +100,12 @@ public class Main
    
    public void addText13()
    {
-      output += "a\n very simple programming example,";
+      output += "a\n very simple programming example, ";
    }
    
    public void addText14()
    {
-      output += "but we do hope you have";
+      output += "but we do hope you have ";
    }
    
    public void addText15()
