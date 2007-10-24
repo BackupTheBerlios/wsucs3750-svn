@@ -65,7 +65,7 @@ public class Main
    
    public void addText6()
    {
-      output += "I am broken!!";
+      output += "Take place everyone\n will be not-able ";
    }
    
    public void addText7()
