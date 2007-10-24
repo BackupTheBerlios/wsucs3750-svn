@@ -60,7 +60,7 @@ public class Main
    
    public void addText5()
    {
-      output += "I am broken!!";
+      output += "As long as updating and committing ";
    }
    
    public void addText6()
