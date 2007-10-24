@@ -45,7 +45,7 @@ public class Main
    
    public void addText2()
    {
-      output += "I am broken!!";
+      output += "is that it makes it easy for";
    }
    
    public void addText3()
