@@ -70,7 +70,7 @@ public class Main
    
    public void addText7()
    {
-      output += "I am broken!!";
+      output += "to see the progress ";
    }
    
    public void addText8()
@@ -90,7 +90,7 @@ public class Main
    
    public void addText11()
    {
-      output += "I am broken!!";
+      output += "if they do a final awesome update. ";
    }
    
    public void addText12()
