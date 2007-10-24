@@ -110,7 +110,7 @@ public class Main
    
    public void addText15()
    {
-      output += "I am broken!!";
+      output += "learned about some of the\n valuable tools ";
    }
    
    public void addText16()
@@ -119,7 +119,7 @@ public class Main
    }
    public void addText17()
    {
-      output += "I am broken!!";
+      output += "We thank all of you for your $20 donations and";
    }
    public void addText18()
    {
