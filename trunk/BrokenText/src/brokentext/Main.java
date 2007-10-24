@@ -40,7 +40,7 @@ public class Main
    }
    public void addText1()
    {
-      output = "I am broken!!";
+      output = "The convenience of Subversion ";
    }
    
    public void addText2()
@@ -50,7 +50,7 @@ public class Main
    
    public void addText3()
    {
-      output += "I am broken!!";
+      output += "many programmers to work on\n ";
    }
    
    public void addText4()
@@ -75,7 +75,7 @@ public class Main
    
    public void addText8()
    {
-      output += "I am broken!!\n";
+      output += "that others are making and";
    }
    
    public void addText9()
@@ -85,7 +85,7 @@ public class Main
    
    public void addText10()
    {
-      output += "I am broken!!";
+      output += "a copy of the finished product ";
    }
    
    public void addText11()
@@ -95,7 +95,7 @@ public class Main
    
    public void addText12()
    {
-      output += "I am broken!!\n";
+      output += "We do know that this was ";
    }
    
    public void addText13()
@@ -123,15 +123,15 @@ public class Main
    }
    public void addText18()
    {
-      output += "I am broken!!";
+      output += "participation in our\n presentation";
    }
    public void addText19()
    {
-      output += "I am broken!!";
+      output += "If you have any questions now ";
    }
    public void addText20()
    {
-      output += "I am broken!!";
+      output += "would be a good time to ask them.";
    }
    
    public static void main(String[] args)
