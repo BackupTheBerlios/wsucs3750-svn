@@ -80,7 +80,7 @@ public class Main
    
    public void addText9()
    {
-      output += "I am broken!!";
+      output += "at the beginning every should\n have ";
    }
    
    public void addText10()
