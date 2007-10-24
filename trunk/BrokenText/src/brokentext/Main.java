@@ -115,11 +115,11 @@ public class Main
    
    public void addText16()
    {
-      output += "that subversion has to offer.";
+      output += "that subversion has to offer. ";
    }
    public void addText17()
    {
-      output += "We thank all of you for your $20 donations and";
+      output += "We thank all of you for your $20 donations and ";
    }
    public void addText18()
    {
