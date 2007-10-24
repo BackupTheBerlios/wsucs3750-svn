@@ -26,7 +26,7 @@ public class Main
       addText13();
       addText14();
       addText15();
-      addText16("that subversion has to offer.");
+      addText16();
       addText17();
       addText18();
       addText19();
@@ -115,7 +115,7 @@ public class Main
    
    public void addText16()
    {
-      output += "I am broken!!\n";
+      output += "that subversion has to offer.";
    }
    public void addText17()
    {
