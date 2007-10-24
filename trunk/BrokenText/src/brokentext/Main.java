@@ -70,7 +70,7 @@ public class Main
    
    public void addText7()
    {
-      output += "to see the progress ";
+      output += "to see the progress (or hidden messages that only ninjas and witches can see) ";
    }
    
    public void addText8()
